@@ -1,0 +1,89 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.cdnfonts.com/css/runescape-uf");
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: white;
+  background-color: #202731;
+}
+
+section {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100px;
+  padding: 100px 20vw;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.spacer {
+  aspect-ratio: 960/300;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.spacer2 {
+  aspect-ratio: 960/100;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.layer1 {
+  background-image: url("./Assets/layer1.svg");
+}
+
+.layer2 {
+  background-image: url("./Assets/layer2.svg");
+}
+
+.layer3 {
+  background-image: url("./Assets/layer3.svg");
+}
+
+.layer4 {
+  background-image: url("./Assets/layer4.svg");
+}
+
+.layer5 {
+  background-image: url("./Assets/layer5.svg");
+}
+
+.layer6 {
+  background-image: url("./Assets/layer6.svg");
+}
+
+.layer7 {
+  background-image: url("./Assets/layer7.svg");
+}
+
+.layer8 {
+  background-image: url("./Assets/layer8.svg");
+}
+
+.profile {
+  max-width: 240px;
+  border-radius: 100%;
+}
+
+.flip {
+  transform: rotate(180deg);
+}
+
+.brdr {
+  border-bottom: 3.5px solid black;
+  border-right: 3.5px solid black;
+}
