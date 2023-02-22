@@ -10,6 +10,7 @@
     "body-parser": "^1.20.2",
     "dotenv": "^16.0.3",
     "kute.js": "^2.2.4",
+    "multiparty": "^4.2.3",
     "nodemailer": "^6.9.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
