@@ -15,10 +15,10 @@ function ProjectCard({
 }) {
   return (
     <div className="max-w-xl py-4">
-      <div className="flex gap-2 underline font-bold">
+      <div className="flex gap-2 font-bold">
         <a
           key={id}
-          className="flex items-center gap-1 text-2xl hover:text-lightpink"
+          className="flex items-center gap-1 text-3xl hover:text-lightpink"
           href={code}
           target="_blank"
         >
@@ -29,12 +29,12 @@ function ProjectCard({
       <p className="text-left">{description}</p>
       <div className="flex gap-3 text-lg font-bold">
         <h1>Skills:</h1>
-        <SkillCard skill={skill} />
-        <SkillCard skill={skill2} />
-        <SkillCard skill={skill3} />
-        <SkillCard skill={skill4} />
+        <p>{skill}</p>
+        <p>{skill2}</p>
+        <p>{skill3}</p>
+        <p>{skill4}</p>
       </div>
-      <div className="flex gap-4">
+      <div className="flex gap-4 underline">
         <a href={site} target="_blank" className="hover:text-lightpink">
           Site
         </a>

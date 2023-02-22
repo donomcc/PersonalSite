@@ -1,11 +1,15 @@
 import React from "react";
 import ProjectCard from "./ProjectCard";
 import projects from "../projects.json";
+import { ImGithub } from "react-icons/im";
 
 function ProjectSection({ bgcolor }) {
   return (
     <div>
-      <section style={{ backgroundColor: bgcolor === "pink" ? "#C62368" : "" }}>
+      <section
+        style={{ backgroundColor: bgcolor === "pink" ? "#C62368" : "" }}
+        className="py-2"
+      >
         <div>
           <h1 className="text-7xl font-bold text-white font-sans py-7">
             Check out my work!
@@ -28,9 +32,9 @@ function ProjectSection({ bgcolor }) {
         <a
           href="https://github.com/donomcc?tab=repositories"
           target="_blank"
-          className="text-2xl hover:text-lightpink py-10"
+          className="text-2xl hover:text-lightpink py-10 flex gap-3 text-center items-center"
         >
-          And many more on GitHub!
+          More on <ImGithub />
         </a>
       </section>
     </div>

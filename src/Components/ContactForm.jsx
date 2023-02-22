@@ -26,7 +26,7 @@ function ContactForm() {
           cols="30"
           rows="10"
           placeholder="Message"
-          className="brdr p-3"
+          className="brdr p-3 resize-none"
         ></textarea>
         <button type="submit"></button>
       </form>
