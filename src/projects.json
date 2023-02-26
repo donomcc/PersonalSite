@@ -14,7 +14,7 @@
     "id": 2,
     "name": "Dungeon Clicker",
     "description": "A thrilling incremental clicking game. Every time you click the attack button, you inflict damage on the menacing monster in front of you. Once you successfully slay the monster, you'll earn gold, and a new monster, tailored to your player level, will be randomly generated to continue the game.",
-    "site": "https://www.google.com",
+    "site": "https://github.com/donomcc/Dungeon-Clicker",
     "code": "https://github.com/donomcc/Dungeon-Clicker",
     "skill": "HTML",
     "skill2": "CSS",
