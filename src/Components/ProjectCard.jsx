@@ -35,9 +35,6 @@ function ProjectCard({
         <p>{skill4}</p>
       </div>
       <div className="flex gap-4 underline">
-        <a href={site} target="_blank" className="hover:text-lightpink">
-          Site
-        </a>
         <a href={code} target="_blank" className="hover:text-lightpink">
           Code
         </a>
