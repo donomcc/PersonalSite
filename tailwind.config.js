@@ -14,10 +14,6 @@ module.exports = {
       dark: "#202731",
     },
     extend: {},
-    fontFamily: {
-      sans: ["Roboto", "sans-serif"],
-      osrs: ["RuneScape UF", "sans-serif"],
-    },
   },
   plugins: [],
 };
