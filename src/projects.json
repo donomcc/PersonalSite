@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Ramen House",
     "description": "A unique ramen-themed restaurant, featuring a captivating hero image on the homepage. The contact page is integrated with the Google Maps API, providing ease of access to any location. The menu is sourced from an SQL database, ensuring all items are up-to-date and accurate. To manage the website, I've implemented an admin portal that offers authentication and encrypted credentials, stored in an SQL database, using the robust BCrypt algorithm.",
-    "site": "https://www.google.com",
+    "site": "https://donomcc.github.io/Ramen-House/",
     "code": "https://github.com/donomcc/Ramen-House",
     "skill": "React",
     "skill2": "mySQL",
@@ -18,21 +18,23 @@
     "code": "https://github.com/donomcc/Dungeon-Clicker",
     "skill": "HTML",
     "skill2": "CSS",
-    "skill3": "Javascript"
+    "skill3": "Javascript",
+    "skill4": "Node.js"
   },
   {
     "id": 3,
     "name": "Country Code Search",
     "description": "A user-friendly website that allows you to effortlessly search for any country code. With just a click of a button, you can easily copy the country code directly from the card, improving your efficiency and saving you time.",
-    "site": "https://www.google.com",
+    "site": "https://donomcc.github.io/countryCodeSearch/",
     "code": "https://github.com/donomcc/countryCodeSearch",
     "skill": "React",
     "skill2": "CSS"
   },
   {
     "id": 4,
-    "name": "Movie Watch List",
+    "name": "Movie Watchlist",
     "description": "A website that enables users to browse through movies sourced from the themoviedb API. Additionally, users can conveniently add their preferred movies to a watchlist for future viewing.",
+    "site": "https://donomcc.github.io/Movie-Watchlist/",
     "code": "https://github.com/donomcc/Movie-Watchlist",
     "skill": "React",
     "skill2": "Node.js",

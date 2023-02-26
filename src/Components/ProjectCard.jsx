@@ -19,7 +19,7 @@ function ProjectCard({
         <a
           key={id}
           className="flex items-center gap-1 text-3xl hover:text-lightpink"
-          href={code}
+          href={site}
           target="_blank"
         >
           {name}
