@@ -31,7 +31,7 @@ function IntroSection() {
           </div>
           <div>
             <img
-              src="https://media.licdn.com/dms/image/C5603AQEm5PUjbgy1aA/profile-displayphoto-shrink_400_400/0/1626998423985?e=1682553600&v=beta&t=xTwAHiRPQmEeYEZEiF0orn6NysfQseJUVo4wyyOSrCw"
+              src="https://media.licdn.com/dms/image/C5603AQEm5PUjbgy1aA/profile-displayphoto-shrink_200_200/0/1626998423985?e=1692230400&v=beta&t=nmDqA79Be4yrS9MVWyVZzILbm7N621mso8IfYFr4Rj0"
               alt="profile picture"
               className="profile"
             />
