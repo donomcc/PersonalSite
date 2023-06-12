@@ -15,7 +15,7 @@ function IntroSection() {
               I enjoy taking on new challenges and creating innovative solutions
               to problems. Whether it's building a website from scratch or
               developing a complex software application, I'm always up for the
-              challenge!
+              challenge! test
             </p>
             <div className="flex py-4 text-7xl gap-4">
               <a href="https://github.com/donomcc" target="_blank">
